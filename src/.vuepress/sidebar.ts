@@ -20,7 +20,9 @@ export default sidebar({
       prefix: "seewo-software-suggestion",
       link: "seewo-software-suggestion/",
       children: [
-        "os-suggestion",
+        "operating-system",
+        "core-utilities",
+        "presentation-apps",
       ],
     },
   ],
