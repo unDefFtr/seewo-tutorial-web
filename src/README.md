@@ -22,7 +22,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
   <VPCard
     title="一体机硬件简介"
     desc="想知道一体机的硬件构造？从这里开始！"
-    link="./docs/seewo-basic-introduction/"
+    link="./docs/seewo-hardware-introduction/"
   />
   <VPCard
     title="一体机软件推荐"
