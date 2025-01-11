@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 主页
-heroImage: ./imgs/tutorial-logo-large.png
+heroImage: ./imgs/tutorial-logo-large.svg
 heroText: 电教委入门指南
 tagline: 从小白到高手，轻松玩转班级一体机
 actions:
