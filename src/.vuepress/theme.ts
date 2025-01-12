@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://seewo.undefined.ac.cn",
 
   author: {
     name: "unDefFtr",
@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "/imgs/tutorial-logo-large.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "unDefFtr/seewo-tutorial-web",
 
   docsDir: "src",
 
@@ -119,10 +119,10 @@ export default hopeTheme({
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "unDefFtr/seewo-tutorial-discussions",
+      repoId: "R_kgDONpHuwQ",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDONpHuwc4Cl8Mx",
     },
 
     components: {
